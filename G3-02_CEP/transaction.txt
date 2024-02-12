@@ -1,0 +1,5 @@
+{'USERNAME': 'ro', ' Credit_Amount': '6', 'At TIME AND DATE': datetime.datetime(2023, 7, 15, 20, 47, 11, 199533)}
+{'USERNAME': 'ty', ' Credit_Amount': '200', 'At TIME AND DATE': datetime.datetime(2023, 7, 16, 16, 31, 52, 859777)}
+{'USERNAME': 'has', ' Credit_Amount': '890'}
+{'USERNAME': 'yu', ' Credit_Amount': '2'}
+{'USERNAME': 'ro', ' Credit_Amount': '10'}
